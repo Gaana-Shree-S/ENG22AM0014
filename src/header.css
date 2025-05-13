@@ -1,0 +1,30 @@
+div {
+ margin: 0%;
+ width: 100%;
+ height: fit-content;
+list-style-type: None;
+padding-top: 20px;
+justify-items: center;
+border: 30mm;
+border-color: brown;
+overflow: hidden;
+}
+
+ul{
+ margin: 0;
+  height: fit-content;
+list-style-type: None;
+justify-content: center;
+justify-items: center;
+
+
+}
+li{
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif, bold;
+  color:black;
+  font-size:large;
+  float: left;
+    padding: 24px;
+
+}
